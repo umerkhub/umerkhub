@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Umer Khan</h1>
-<h3 align="center">A Final year student pursuing Bachelors in Artificial Intelligence and Data Science from India</h3>
+<h3 align="center">Bachelors in Artificial Intelligence and Data Science from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
